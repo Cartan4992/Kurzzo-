@@ -1,2 +1,2 @@
 # Kurzzo
-Academia digita
+Academia digital
